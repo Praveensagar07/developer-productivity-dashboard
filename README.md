@@ -1,5 +1,11 @@
 # Developer Productivity Dashboard
 
+[![Week 1 Task 1](https://img.shields.io/badge/Innovation%20Hacks-Week%201%20Completed-emerald?style=flat-square)](https://github.com/Praveensagar07/developer-productivity-dashboard)
+[![React](https://img.shields.io/badge/React-18.3-blue?style=flat-square&logo=react)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
+[![Vite](https://img.shields.io/badge/Vite-6.0-646cff?style=flat-square&logo=vite)](https://vitejs.dev)
+
 An enterprise-grade, responsive Developer Productivity Dashboard engineered with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. Built as the official submission for **Week 1 — Task 1** of the **Innovation Hacks Full Stack Development Internship**.
 
 ---
